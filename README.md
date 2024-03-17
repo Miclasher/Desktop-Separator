@@ -10,7 +10,7 @@ The Desktop Separator  is a versatile program designed to enhance your desktop e
 
 ## Installation
 
-1. Download windows.rar from "rleases" tab
+1. Download windows.rar from "releases" tab
 2. Extract files
 3. Run .exe file
 
