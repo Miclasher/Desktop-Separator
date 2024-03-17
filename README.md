@@ -37,3 +37,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 ## Contact
 
 For any inquiries or support, feel free to contact us at [mishanemisha227@gmail.com](mailto:mishanemisha227@gmail.com). We'd love to hear from you!
+
+##Support
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X8VGNBO)
