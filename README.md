@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X8VGNBO)
+
 # Desktop Separator
 
 The Desktop Separator  is a versatile program designed to enhance your desktop experience by allowing you to effortlessly change wallpapers and files. Whether you want to refresh your desktop with new wallpapers or just keep it clear, this program has got you covered.
@@ -38,6 +40,3 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 For any inquiries or support, feel free to contact us at [mishanemisha227@gmail.com](mailto:mishanemisha227@gmail.com). We'd love to hear from you!
 
-##Support
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X8VGNBO)
